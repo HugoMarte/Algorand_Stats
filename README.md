@@ -1,7 +1,7 @@
 # Algorand_Stats
 Algorand dashboard project 
 
-##Project description
+## Project description
 
 The aim of this project was to build a dashboard that allows the user to display the comparison between various cryptocurrencies in the market, based on the returns of the assets, as well as the display of Algorand current and historical data and statistics.
 
