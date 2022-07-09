@@ -30,3 +30,7 @@ To retrieve information from URL directions
 To generate some of the graphs and plots
 #### plotly.graph_objects 	  
 to generate the candlestick plot.
+
+## How to run the app
+
+If you have installed streamlit you can use -streamlit run Algorand_Stats_app.py- on your terminal to run the app on streamlit. Otherwise you can pip install streamlit so you can run the app.
