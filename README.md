@@ -11,10 +11,22 @@ The purpose of this dashboard is to provide the users the information they need 
 
 ## Technologies
 
-import streamlit as st  	  		    # To build the web framework interface
-from PIL import Image 		          # To display images like the algorand logo
-import pandas as pd 	 		          # To create and manipulate the data frames 
-import yfinance as yf			          # To harvest the information about the assets 
-from urllib.request import urlopen	# To retrieve information from URL directions
-import plotly.express as px		      # To generate some of the graphs and plots
-import plotly.graph_objects as go	  # to generate the candlestick plot.
+#### streamlit 
+To build the web framework interface
+
+#### PIL import Image 		          
+To display images like the algorand logo
+
+#### import pandas as pd 	 		           
+To create and manipulate the data frames 
+
+#### yfinance 		          
+To harvest the information about the assets 
+
+#### urllib.request import urlopen	
+To retrieve information from URL directions
+
+####  plotly.express 	      
+To generate some of the graphs and plots
+#### plotly.graph_objects 	  
+to generate the candlestick plot.
