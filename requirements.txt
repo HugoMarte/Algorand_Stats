@@ -1,5 +1,4 @@
 tk
-urllib
 streamlit 
 yfinance 
 matplotlib 
