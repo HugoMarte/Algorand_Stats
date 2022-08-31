@@ -29,12 +29,12 @@ expander_info.markdown (""" * **Python libraries:** pandas, streamlit, yfinance,
 algorand = "ALGO-USD"
 ALG_data = yf.Ticker(algorand)
 ALG_HIS = ALG_data.history(period="today")
-ALG_1 = yf.download(algorand, start="2021-01-01", end="2022-07-07")
+ALG_1 = yf.download(algorand, start="2021-01-01", end="2022-08-30")
 ALG_1 = ALG_1.drop(["Open", "High", "Low", "Close", "Adj Close"],axis=1)
-ALG = yf.download(algorand, start="2021-01-01", end="2022-07-07")
+ALG = yf.download(algorand, start="2021-01-01", end="2022-08-30")
 ALG = ALG.drop("Volume",axis=1)
-ALG_2 = yf.download(algorand, start="2021-01-01", end="2022-07-07")
-ALG_2 ["Date"] = pd.date_range(start ="2021-01-01", end ="2022-07-07")
+ALG_2 = yf.download(algorand, start="2021-01-01", end="2022-08-30")
+ALG_2 ["Date"] = pd.date_range(start ="2021-01-01", end ="2022-08-30")
 ALG_2 ["Date"] = pd.to_datetime (ALG_2 ["Date"])
 
 # Algorand today table
