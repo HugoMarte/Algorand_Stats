@@ -1,0 +1,9 @@
+sqlite3
+tkinter
+turtle
+urllib
+streamlit 
+yfinance 
+matplotlib 
+pillow 
+plotly
