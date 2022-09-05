@@ -5,4 +5,4 @@ plotly
 tk
 matplotlib
 urllib3
-turtle
+PythonTurtle
