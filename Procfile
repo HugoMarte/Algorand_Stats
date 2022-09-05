@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run algorand_stats_app.py
+web: sh setup.sh && streamlit run Algorand_stats_app.py
