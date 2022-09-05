@@ -4,4 +4,4 @@ pillow
 plotly
 tk
 matplotlib
-urllib
+urllib3
