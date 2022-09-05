@@ -2,3 +2,8 @@ streamlit
 yfinance 
 pillow 
 plotly
+tk
+matplotlib
+sqlite3
+urllib.request
+turtle
