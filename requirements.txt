@@ -2,8 +2,7 @@ streamlit
 yfinance 
 pillow 
 plotly
-tk
 matplotlib
 urllib3
 PythonTurtle
-tkinker
+tk
