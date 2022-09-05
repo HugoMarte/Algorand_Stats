@@ -9,7 +9,7 @@ yfinance = "*"
 matplotlib = "*"
 pillow = "*"
 plotly = "*"
-tkinter = "*"
+tk = "*"
 
 [dev-packages]
 
