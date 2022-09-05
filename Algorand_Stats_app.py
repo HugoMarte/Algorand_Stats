@@ -1,7 +1,7 @@
 from sqlite3 import Date
 #from tkinter.messagebox import YES
 #from turtle import end_fill
-import tkinter as tk
+#import tkinter as tk
 import streamlit as st #For the web framework
 from PIL import Image
 import pandas as pd
