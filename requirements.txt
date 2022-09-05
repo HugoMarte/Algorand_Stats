@@ -4,5 +4,5 @@ pillow
 plotly
 tk
 matplotlib
-urllib.request
+urllib
 turtle
