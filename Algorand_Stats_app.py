@@ -1,5 +1,5 @@
 from sqlite3 import Date
-from tkinter.messagebox import YES
+#from tkinter.messagebox import YES
 from turtle import end_fill
 import streamlit as st #For the web framework
 from PIL import Image
