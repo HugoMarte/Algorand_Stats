@@ -6,3 +6,4 @@ tk
 matplotlib
 urllib3
 PythonTurtle
+tkinker
